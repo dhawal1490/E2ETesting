@@ -39,7 +39,8 @@ public class base {
 		 driver = new ChromeDriver();
 		 //driver = driver.Chrome(ChromeDriverManager().install());
 		}
-		else if(browser == "firefox") {
+		else if(browser == "firefox") 
+		{
 			
 		}else if(browser == "IE") {
 			
