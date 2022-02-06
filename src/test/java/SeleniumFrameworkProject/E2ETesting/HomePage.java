@@ -47,7 +47,8 @@ public class HomePage extends base {
 	@BeforeTest
 	public void beforeTest() {
 
-		System.out.println("In Before Test master");
+
+	System.out.println("In Before Test master");
 		
 	}
 	
